@@ -46,7 +46,7 @@ This project focuses on analyzing employee data to predict business growth, iden
 4. Strategic Recommendations: Provided actionable recommendations for targeted training and recognition programs to boost employee performance and retention.
 
 ## Data Columns
-1. 'employee_id': Unique identifier for each employee.
+1. `employee_id`: Unique identifier for each employee.
 department: Department where the employee works.
 region: Operational region of the employee.
 education: Educational background of the employee.
