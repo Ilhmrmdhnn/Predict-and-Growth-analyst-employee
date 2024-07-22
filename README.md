@@ -46,16 +46,16 @@ This project focuses on analyzing employee data to predict business growth, iden
 4. Strategic Recommendations: Provided actionable recommendations for targeted training and recognition programs to boost employee performance and retention.
 
 ## Data Columns
-1. `employee_id`: Unique identifier for each employee.
-department: Department where the employee works.
-region: Operational region of the employee.
-education: Educational background of the employee.
-gender: Gender of the employee.
-recruitment_channel: Recruitment channel through which the employee was hired.
-no_of_trainings: Number of training sessions attended by the employee.
-age: Age of the employee.
-previous_year_rating: Performance rating of the employee from the previous year.
-length_of_service: Duration of the employee's service in the company.
-awards_won?: Indicates whether the employee has received any awards.
-avg_training_score: Average score obtained in training sessions.
-is_promoted: Indicates if the employee has been promoted.
+* `employee_id`: Unique identifier for each employee.
+* `department`: Department where the employee works.
+* `region`: Operational region of the employee.
+* `education`: Educational background of the employee.
+* `gender`: Gender of the employee.
+* `recruitment_channel`: Recruitment channel through which the employee was hired.
+* `no_of_trainings`: Number of training sessions attended by the employee.
+* `age`: Age of the employee.
+* `previous_year_rating`: Performance rating of the employee from the previous year.
+* `length_of_service`: Duration of the employee's service in the company.
+* `awards_won?`: Indicates whether the employee has received any awards.
+* `avg_training_score`: Average score obtained in training sessions.
+* `is_promoted`: Indicates if the employee has been promoted.
